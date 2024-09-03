@@ -1,0 +1,25 @@
+@article{liu2024kolmogorov,
+  title={Kolmogorov-Arnold Networks},
+  author={Liu, Zhiwei and Wang, Yu and Vaidya, Sachit and Ruehle, Fabian and Halverson, James and Soljačić, Marin and Hou, Thomas Y. and Tegmark, Max},
+  journal={arXiv preprint arXiv:2404.19756v2},
+  year={2024},
+  month={May},
+  day={2}
+}
+
+@article{liu2024kolmogorov_arnold,
+  title={Kolmogorov-Arnold Networks Meet Science},
+  author={Liu, Zhiwei and Ma, Pei and Wang, Yu and Matusik, Wojciech and Tegmark, Max},
+  journal={arXiv preprint arXiv:2408.10205v1},
+  year={2024},
+  month={Aug.},
+  note={[En línea]. Disponible en: https://arxiv.org/abs/2408.10205}
+}
+
+@techreport{schoder2024feasibility,
+  title={Feasibility Study on Solving the Helmholtz Equation in 3D with Physics-Informed Neural Networks},
+  author={Schoder, Stefan and Kraxberger, Florian},
+  institution={Institute of Fundamentals and Theory in Electrical Engineering (IGTE), Graz University of Technology},
+  address={Graz, Austria},
+  year={2024}
+}
